@@ -1,3 +1,4 @@
 this is feature1 branch file
 this is modified in master branch
 this is change in file after feature2 branch
+this is change in feature2 branch
