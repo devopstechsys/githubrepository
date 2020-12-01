@@ -1,3 +1,4 @@
 this is new sample file
 this is updated file
-this is updated in master branch after feature3 
+this is updated in master branch after feature3
+this is changed for stashing
